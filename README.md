@@ -12,11 +12,9 @@ The datasets can be downloaded from the [GitHub Release page](https://github.com
 ## Dataset Files
 
 - `offline_dataset.zip`: Processed and annotated data used for offline model training, validation, and testing.
-- `online_dataset.zip`: Chronologically organized data used for online continual learning and fixed evaluation.
+- `online_dataset.zip`: Processed and annotated data used for online continual learning and fixed evaluation.
 
 The dataset uses four confidentiality levels: `ROUTINE`, `OPERATIONAL`, `SENSITIVE`, and `CRITICAL`.
-
-The reviewer interaction signals included in the online dataset were generated through simulation and do not represent interaction records collected from real enterprise employees.
 
 ## Data Source
 
